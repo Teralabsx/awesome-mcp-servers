@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 467 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 468 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -5403,6 +5403,18 @@ Where to eat in 222 cities, signature dishes, and dates of the next edition of 1
 - Tags: travel, food, restaurants, festivals, remote
 - Category: Utilities and Examples
 - Streamable HTTP endpoint: https://tablejourney.com/mcp
+
+### Tera Studio
+
+Find a song's key and tempo or move it up or down by up to 6 semitones, with the file processed in the user's browser and never uploaded, and get the steps to hear a song in the user's own voice.
+
+- URL: https://terastudio.co/ai-assistants/
+- Language: Python
+- Provider: Tera Studio
+- Official: yes
+- Tags: music, audio, singing, remote
+- Category: Utilities and Examples
+- Streamable HTTP endpoint: https://terastudio.co/mcp
 
 ### Weather MCP Server
 

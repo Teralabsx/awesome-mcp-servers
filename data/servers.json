@@ -3141,6 +3141,24 @@
     }
   },
   {
+    "name": "Tera Studio",
+    "url": "https://terastudio.co/ai-assistants/",
+    "description": "Find a song's key and tempo or move it up or down by up to 6 semitones, with the file processed in the user's browser and never uploaded, and get the steps to hear a song in the user's own voice.",
+    "category": "utilities-and-examples",
+    "language": "Python",
+    "provider": "Tera Studio",
+    "tags": [
+      "music",
+      "audio",
+      "singing",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://terastudio.co/mcp"
+    }
+  },
+  {
     "name": "LLM Pulse MCP Server",
     "url": "https://github.com/LLM-Pulse/llmpulse-mcp",
     "description": "Analyze AI search visibility, citations, sentiment, share of voice, and AI traffic.",
